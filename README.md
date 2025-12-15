@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rithicka</h1>
+<h3 align="center">Pre-final Year AI & Data Science Student | Placement Focused</h3>
 
-<!--
-**Rithickaa/Rithickaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 Pre-final year **Artificial Intelligence & Data Science** student  
+- 💡 Interested in **AI, Machine Learning, Data Science & Full Stack Development**
+- 🧠 Actively preparing for **technical placements**
+- 🚀 Building real-world, resume-ready projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- Java
+- C
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+**AI / Data Science**
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+
+**Databases**
+- MySQL
+
+---
+
+### 📚 Core Subjects
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Machine Learning
+
+---
+
+### 🔥 Major Projects
+- **Bias Detector (FairText / Trustique)**  
+  AI system that detects biased text and suggests fair alternatives
+
+- **Adaptive Web Data Scraper**  
+  Scrapes websites and stores structured data into CSV using Python
+
+- **AI Study Assistant**  
+  “One Topic – Many Ways” learning engine for students
+
+- **AI-Powered Women Safety App**  
+  Android app built for hackathon presentation
+
+---
+
+### 🧩 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,mysql,git" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rithickaa&show_icons=true" />
+</p>
+
+---
+
+### 🎯 Career Goal
+Aspiring **Software Engineer / Data Scientist** passionate about building ethical and intelligent systems.
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/rithickaa
+- LinkedIn: (add your LinkedIn link)
