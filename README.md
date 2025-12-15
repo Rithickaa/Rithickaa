@@ -15,14 +15,15 @@
 
 **Programming Languages**
 - Python
-- Java
 - C
+- C++
 
 **Web Development**
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
+- React
 
 **AI / Data Science**
 - Machine Learning
@@ -32,6 +33,7 @@
 
 **Databases**
 - MySQL
+- MongoDB
 
 ---
 
@@ -45,7 +47,7 @@
 ---
 
 ### 🔥 Major Projects
-- **Bias Detector (FairText / Trustique)**  
+- **Bias Detection in text**  
   AI system that detects biased text and suggests fair alternatives
 
 - **Adaptive Web Data Scraper**  
@@ -54,8 +56,8 @@
 - **AI Study Assistant**  
   “One Topic – Many Ways” learning engine for students
 
-- **AI-Powered Women Safety App**  
-  Android app built for hackathon presentation
+- **Phantom Energy Detection**  
+  Android app that identifies and monitors standby power (phantom load) in electrical devices to reduce energy waste and improve efficiency.
 
 ---
 
@@ -80,4 +82,4 @@ Aspiring **Software Engineer / Data Scientist** passionate about building ethica
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/rithickaa
-- LinkedIn: (add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/rithicka-r
